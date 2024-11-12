@@ -1,0 +1,7 @@
+#Counting Nucleotides
+nucString <- "AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC"
+
+# Return amount of A, G, T, C's for the string
+
+for (base in nucString):
+  
